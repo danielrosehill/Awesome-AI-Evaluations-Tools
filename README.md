@@ -69,6 +69,9 @@ GitHub topic pages used while curating this list:
 - [ignite](https://github.com/pytorch/ignite)
 - [bench](https://github.com/arthur-ai/bench)
 - [openlit](https://github.com/openlit/openlit)
+- [guidellm](https://github.com/vllm-project/guidellm)
+- [vivaria](https://github.com/METR/vivaria)
+- [helicone](https://github.com/Helicone/helicone)
 
 ## Benchmarks
 
@@ -76,6 +79,7 @@ GitHub topic pages used while curating this list:
 - [dangerous-capability-evaluations](https://github.com/google-deepmind/dangerous-capability-evaluations)
 - [reward-bench](https://github.com/allenai/reward-bench)
 - [openbench](https://github.com/groq/openbench)
+- [claw-eval](https://github.com/claw-eval/claw-eval)
 
 ## Agentic & Tool Use Evals
 
@@ -83,6 +87,7 @@ GitHub topic pages used while curating this list:
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [fast-agent](https://github.com/evalstate/fast-agent)
 - [agentevals](https://github.com/langchain-ai/agentevals)
+- [any-agent](https://github.com/mozilla-ai/any-agent)
 
 ## Multimodal Evals
 
