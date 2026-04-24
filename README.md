@@ -91,6 +91,14 @@ GitHub topic pages used while curating this list:
 | [Moonshot](https://github.com/aiverify-foundation/moonshot) | Simple and modular tool to evaluate and red-team any LLM application. | ![](https://img.shields.io/github/stars/aiverify-foundation/moonshot?style=social) |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Multi-platform desktop application to evaluate and compare LLM models, written in Rust and React. | ![](https://img.shields.io/github/stars/dezoito/ollama-grid-search?style=social) |
 | [Speculators](https://github.com/vllm-project/speculators) | Unified library for building, evaluating, and storing speculative decoding algorithms for LLM inference in vLLM. | ![](https://img.shields.io/github/stars/vllm-project/speculators?style=social) |
+| [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) | Automatic evaluator for instruction-following language models — LLM-based, fast, cheap, replicable. | ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social) |
+| [continuous-eval](https://github.com/relari-ai/continuous-eval) | Data-driven evaluation framework for LLM applications. | ![](https://img.shields.io/github/stars/relari-ai/continuous-eval?style=social) |
+| [Eureka ML Insights](https://github.com/microsoft/eureka-ml-insights) | Microsoft framework for standardizing evaluations of large foundation models. | ![](https://img.shields.io/github/stars/microsoft/eureka-ml-insights?style=social) |
+| [SumEval](https://github.com/chakki-works/sumeval) | Well-tested multilingual evaluation framework for text summarization. | ![](https://img.shields.io/github/stars/chakki-works/sumeval?style=social) |
+| [HELM](https://github.com/stanford-crfm/helm) | Stanford CRFM's Holistic Evaluation of Language Models framework for transparent, reproducible evaluations. | ![](https://img.shields.io/github/stars/stanford-crfm/helm?style=social) |
+| [Promptimize](https://github.com/preset-io/promptimize) | Prompt engineering evaluation and testing toolkit from Preset. | ![](https://img.shields.io/github/stars/preset-io/promptimize?style=social) |
+| [MiroEval](https://github.com/MiroMindAI/MiroEval) | Unified evaluation framework from MiroMind AI. | ![](https://img.shields.io/github/stars/MiroMindAI/MiroEval?style=social) |
+| [OmniEvalKit](https://github.com/OpenBMB/OmniEvalKit) | Modular, lightweight toolbox for evaluating LLMs and their omni-extensions across multiple modalities, languages, and tasks. | ![](https://img.shields.io/github/stars/OpenBMB/OmniEvalKit?style=social) |
 
 ## Benchmarks
 
@@ -105,6 +113,11 @@ GitHub topic pages used while curating this list:
 | [Sparse Frontier](https://github.com/PiotrNawrot/sparse-frontier) | Evaluation framework for training-free sparse attention in LLMs. | ![](https://img.shields.io/github/stars/PiotrNawrot/sparse-frontier?style=social) |
 | [med-lm-envs](https://github.com/MedARC-AI/med-lm-envs) | Automated LLM evaluation suite for medical tasks. | ![](https://img.shields.io/github/stars/MedARC-AI/med-lm-envs?style=social) |
 | [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit) | A unified medical evaluation framework. | ![](https://img.shields.io/github/stars/alibaba-damo-academy/MedEvalKit?style=social) |
+| [OpenHands Benchmarks](https://github.com/OpenHands/benchmarks) | Benchmark suite for evaluating the OpenHands coding agent. | ![](https://img.shields.io/github/stars/OpenHands/benchmarks?style=social) |
+| [SkillsBench](https://github.com/benchflow-ai/skillsbench) | Benchmark for evaluating agent skills across a wide range of tasks. | ![](https://img.shields.io/github/stars/benchflow-ai/skillsbench?style=social) |
+| [HarmBench](https://github.com/centerforaisafety/HarmBench) | Standardized evaluation framework for automated red teaming and robust refusal. | ![](https://img.shields.io/github/stars/centerforaisafety/HarmBench?style=social) |
+| [article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) | Benchmark for article extraction libraries from Scrapinghub. | ![](https://img.shields.io/github/stars/scrapinghub/article-extraction-benchmark?style=social) |
+| [GameWorld](https://github.com/gameworld-project/gameworld) | Game-based benchmark environment for evaluating AI agents. | ![](https://img.shields.io/github/stars/gameworld-project/gameworld?style=social) |
 
 ## Agentic & Tool Use Evals
 
@@ -125,6 +138,7 @@ GitHub topic pages used while curating this list:
 | [HarnessLab](https://github.com/polskiTran/HarnessLab) | Benchmark that evaluates the harness around the LLM — context management, retry policies, tool selection, memory architecture. | ![](https://img.shields.io/github/stars/polskiTran/HarnessLab?style=social) |
 | [ResearchHarness](https://github.com/black-yt/ResearchHarness) | Lightweight harness for tool-using LLM agents with fair benchmark evaluation and personal assistant workflows. | ![](https://img.shields.io/github/stars/black-yt/ResearchHarness?style=social) |
 | [iris-eval mcp-server](https://github.com/iris-eval/mcp-server) | Agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets. | ![](https://img.shields.io/github/stars/iris-eval/mcp-server?style=social) |
+| [AIOpsLab](https://github.com/microsoft/AIOpsLab) | Microsoft holistic framework for designing, developing, and evaluating autonomous AIOps agents. | ![](https://img.shields.io/github/stars/microsoft/AIOpsLab?style=social) |
 
 ## Multimodal Evals
 
@@ -132,6 +146,13 @@ GitHub topic pages used while curating this list:
 |---|---|---|
 | [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) | One-for-all multimodal evaluation toolkit across text, image, video, and audio tasks. | ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) |
 | [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) | Open-source evaluation toolkit for large multi-modality models — supports 220+ LMMs and 80+ benchmarks. | ![](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=social) |
+| [FlagEvalMM](https://github.com/flageval-baai/FlagEvalMM) | Flexible framework for comprehensive evaluation of multimodal models from BAAI. | ![](https://img.shields.io/github/stars/flageval-baai/FlagEvalMM?style=social) |
+| [EASI](https://github.com/EvolvingLMMs-Lab/EASI) | Evaluation framework for large multimodal models. | ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/EASI?style=social) |
+| [EmoBench-M](https://github.com/Emo-gml/EmoBench-M) | Benchmark for evaluating emotion recognition capabilities of multimodal LLMs. | ![](https://img.shields.io/github/stars/Emo-gml/EmoBench-M?style=social) |
+| [multimodalhugs](https://github.com/GerrySant/multimodalhugs) | Multimodal training and evaluation framework built on Hugging Face. | ![](https://img.shields.io/github/stars/GerrySant/multimodalhugs?style=social) |
+| [OmniSafeBench-MM](https://github.com/jiaxiaojunQAQ/OmniSafeBench-MM) | Safety benchmark for multimodal large language models. | ![](https://img.shields.io/github/stars/jiaxiaojunQAQ/OmniSafeBench-MM?style=social) |
+| [MMT-Bench](https://github.com/OpenGVLab/MMT-Bench) | Comprehensive multimodal benchmark for evaluating LMMs across massive multitask AGI scenarios. | ![](https://img.shields.io/github/stars/OpenGVLab/MMT-Bench?style=social) |
+| [MME-Emotion](https://github.com/FunAudioLLM/MME-Emotion) | Multimodal emotion understanding evaluation benchmark. | ![](https://img.shields.io/github/stars/FunAudioLLM/MME-Emotion?style=social) |
 
 ## Vision Evals
 
@@ -146,6 +167,8 @@ GitHub topic pages used while curating this list:
 | [Ragas](https://github.com/vibrantlabsai/ragas) | Supercharge your LLM application evaluations. | ![](https://img.shields.io/github/stars/vibrantlabsai/ragas?style=social) |
 | [TruLens](https://github.com/truera/trulens) | Evaluation and tracking for LLM experiments and AI agents. | ![](https://img.shields.io/github/stars/truera/trulens?style=social) |
 | [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | Open-source framework for RAG evaluation and optimization with AutoML-style automation. | ![](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=social) |
+| [RAG Experiment Accelerator](https://github.com/microsoft/rag-experiment-accelerator) | Microsoft framework for running experiments and evaluations on RAG pipelines. | ![](https://img.shields.io/github/stars/microsoft/rag-experiment-accelerator?style=social) |
+| [RAG-grounding-eval](https://github.com/hriday1/RAG-grounding-eval) | Evaluation harness for measuring grounding quality in RAG systems. | ![](https://img.shields.io/github/stars/hriday1/RAG-grounding-eval?style=social) |
 
 ## Search
 
