@@ -1,0 +1,39 @@
+name: Export repo CSV
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"  # Mondays 05:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - README.md
+      - scripts/export_repos.py
+      - .github/workflows/export-csv.yml
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run exporter
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/export_repos.py
+      - name: Commit CSV if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet data/repos.csv; then
+            git add data/repos.csv
+            git commit -m "Refresh data/repos.csv [skip ci]"
+            git push
+          else
+            echo "No changes."
+          fi
