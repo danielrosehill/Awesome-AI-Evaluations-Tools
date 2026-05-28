@@ -109,6 +109,8 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [OmniEvalKit](https://github.com/OpenBMB/OmniEvalKit) | Modular toolbox for evaluating LLMs and their omni-extensions across modalities, languages, and tasks. | ![](https://img.shields.io/github/stars/OpenBMB/OmniEvalKit?style=social) | ![](https://img.shields.io/github/last-commit/OpenBMB/OmniEvalKit) |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | CLI and library for testing, evaluating, and red-teaming LLM apps — test-driven prompt engineering. | ![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) | ![](https://img.shields.io/github/last-commit/promptfoo/promptfoo) |
 | [FastChat](https://github.com/lm-sys/FastChat) | Platform for training, serving, and evaluating LLMs — home of Chatbot Arena and MT-Bench. | ![](https://img.shields.io/github/stars/lm-sys/FastChat?style=social) | ![](https://img.shields.io/github/last-commit/lm-sys/FastChat) |
+| [ai-evaluation](https://github.com/future-agi/ai-evaluation) | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection). | ![](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social) | ![](https://img.shields.io/github/last-commit/future-agi/ai-evaluation) |
+| [traceAI](https://github.com/future-agi/traceAI) | OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations. | ![](https://img.shields.io/github/stars/future-agi/traceAI?style=social) | ![](https://img.shields.io/github/last-commit/future-agi/traceAI) |
 
 ## Benchmarks
 
