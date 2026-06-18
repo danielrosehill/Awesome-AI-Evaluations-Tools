@@ -269,3 +269,8 @@ Contributions, corrections, and PRs welcome.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has dedicated all copyright and related and neighboring rights to this list to the public domain worldwide under [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Linked projects retain their own licenses.
+
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries; separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
