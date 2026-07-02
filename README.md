@@ -215,6 +215,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [OpinionQA](https://github.com/tatsu-lab/opinions_qa) | Evaluating alignment of LLM opinions with U.S. demographic and political groups. | ![](https://img.shields.io/github/stars/tatsu-lab/opinions_qa?style=social) | ![](https://img.shields.io/github/last-commit/tatsu-lab/opinions_qa) |
 | [WorldValuesBench](https://github.com/Demon702/WorldValuesBench) | Benchmark for evaluating multicultural value alignment in LLMs, grounded in the World Values Survey. | ![](https://img.shields.io/github/stars/Demon702/WorldValuesBench?style=social) | ![](https://img.shields.io/github/last-commit/Demon702/WorldValuesBench) |
 | [BLEnD](https://github.com/nlee0212/BLEnD) | Benchmark for LLMs on everyday knowledge in diverse cultures and languages — probes American/Western-centric bias. | ![](https://img.shields.io/github/stars/nlee0212/BLEnD?style=social) | ![](https://img.shields.io/github/last-commit/nlee0212/BLEnD) |
+| [Helium Model Worldview](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) | 304 paired prompts testing safety refusals, value consistency, name-swap bias, cue-swap consistency, and 50 balanced political Likert items. | — | 2026 |
 
 ## Sycophancy & Dissent
 
