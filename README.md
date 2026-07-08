@@ -242,6 +242,7 @@ Includes general safety red-team tooling, over-refusal (exaggerated safety), jai
 | [CValues](https://github.com/X-PLUG/CValues) | Chinese LLM values benchmark — measures safety and responsibility across Chinese cultural/political context. | ![](https://img.shields.io/github/stars/X-PLUG/CValues?style=social) | ![](https://img.shields.io/github/last-commit/X-PLUG/CValues) |
 | [Flames](https://github.com/AI45Lab/Flames) | Highly-adversarial Chinese values alignment benchmark for evaluating refusal on sensitive topics. | ![](https://img.shields.io/github/stars/AI45Lab/Flames?style=social) | ![](https://img.shields.io/github/last-commit/AI45Lab/Flames) |
 | [SafetyBench](https://github.com/thu-coai/SafetyBench) | First comprehensive benchmark evaluating LLM safety in Chinese and English across seven harm categories. | ![](https://img.shields.io/github/stars/thu-coai/SafetyBench?style=social) | ![](https://img.shields.io/github/last-commit/thu-coai/SafetyBench) |
+| [AI Governance Benchmarks](https://github.com/tombudd/ai-governance-benchmarks) | Clean-room, rule-based benchmark suite for AI governance properties — constitutional adherence, accountability completeness, agent boundary respect, human sovereignty preservation. | ![](https://img.shields.io/github/stars/tombudd/ai-governance-benchmarks?style=social) | ![](https://img.shields.io/github/last-commit/tombudd/ai-governance-benchmarks) |
 
 ## Search
 
