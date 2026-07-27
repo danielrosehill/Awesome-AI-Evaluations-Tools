@@ -157,6 +157,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [BrowserGym](https://github.com/ServiceNow/BrowserGym) | Gym environment for web task automation and agent evaluation in real browsers. | ![](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social) | ![](https://img.shields.io/github/last-commit/ServiceNow/BrowserGym) |
 | [WebShop](https://github.com/princeton-nlp/WebShop) | Simulated e-commerce environment for evaluating language-grounded web-interaction agents. | ![](https://img.shields.io/github/stars/princeton-nlp/WebShop?style=social) | ![](https://img.shields.io/github/last-commit/princeton-nlp/WebShop) |
 | [MiniWoB++](https://github.com/Farama-Foundation/miniwob-plusplus) | Classic benchmark of 100+ small web-interaction tasks for evaluating web-using agents. | ![](https://img.shields.io/github/stars/Farama-Foundation/miniwob-plusplus?style=social) | ![](https://img.shields.io/github/last-commit/Farama-Foundation/miniwob-plusplus) |
+| [ClawBench](https://github.com/reacher-z/ClawBench) | Real-world web-agent benchmark covering 153 everyday tasks across 144 live websites, with isolated browser runs and replay, action, HTTP, and agent-message traces. [Live project](https://claw-bench.com/) | ![](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social) | ![](https://img.shields.io/github/last-commit/reacher-z/ClawBench) |
 
 ## Coding Evals
 
