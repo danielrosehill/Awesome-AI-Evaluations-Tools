@@ -163,6 +163,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | Project | Description | Stars | Updated |
 |---|---|---|---|
 | [SWE-bench](https://github.com/SWE-bench/SWE-bench) | Benchmark for evaluating LLMs on real-world GitHub issue resolution. | ![](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=social) | ![](https://img.shields.io/github/last-commit/SWE-bench/SWE-bench) |
+| [Coder Eval](https://github.com/UiPath/coder_eval) | Sandboxed framework for evaluating coding agents and their skills with declarative YAML tasks, weighted scoring, and A/B experiments. | ![](https://img.shields.io/github/stars/UiPath/coder_eval?style=social) | ![](https://img.shields.io/github/last-commit/UiPath/coder_eval) |
 
 ## Multimodal Evals
 
