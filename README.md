@@ -253,6 +253,7 @@ _(Add entries here.)_
 |---|---|---|---|
 | [Every Eval Ever](https://github.com/evaleval/every_eval_ever) | Shared schema and crowdsourced eval database for comparing AI evaluation results across frameworks. | ![](https://img.shields.io/github/stars/evaleval/every_eval_ever?style=social) | ![](https://img.shields.io/github/last-commit/evaleval/every_eval_ever) |
 | [llm-benchmark](https://github.com/terryyz/llm-benchmark) | A list of LLM benchmark frameworks. | ![](https://img.shields.io/github/stars/terryyz/llm-benchmark?style=social) | ![](https://img.shields.io/github/last-commit/terryyz/llm-benchmark) |
+| [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) | Curated list of AI-powered testing tools and resources for QA engineers, including a dedicated LLM-as-judge evaluation section. | ![](https://img.shields.io/github/stars/tugkanboz/awesome-ai-testing?style=social) | ![](https://img.shields.io/github/last-commit/tugkanboz/awesome-ai-testing) |
 
 ---
 
