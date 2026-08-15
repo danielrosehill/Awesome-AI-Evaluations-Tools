@@ -177,6 +177,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [OmniSafeBench-MM](https://github.com/jiaxiaojunQAQ/OmniSafeBench-MM) | Safety benchmark for multimodal large language models. | ![](https://img.shields.io/github/stars/jiaxiaojunQAQ/OmniSafeBench-MM?style=social) | ![](https://img.shields.io/github/last-commit/jiaxiaojunQAQ/OmniSafeBench-MM) |
 | [MMT-Bench](https://github.com/OpenGVLab/MMT-Bench) | Comprehensive multimodal benchmark for evaluating LMMs across massive multitask AGI scenarios. | ![](https://img.shields.io/github/stars/OpenGVLab/MMT-Bench?style=social) | ![](https://img.shields.io/github/last-commit/OpenGVLab/MMT-Bench) |
 | [MME-Emotion](https://github.com/FunAudioLLM/MME-Emotion) | Multimodal emotion understanding evaluation benchmark. | ![](https://img.shields.io/github/stars/FunAudioLLM/MME-Emotion?style=social) | ![](https://img.shields.io/github/last-commit/FunAudioLLM/MME-Emotion) |
+| [RewardHarness](https://github.com/TIGER-AI-Lab/RewardHarness) | Self-evolving agentic framework for scoring image-editing preferences with reusable skills and tools. | ![](https://img.shields.io/github/stars/TIGER-AI-Lab/RewardHarness?style=social) | ![](https://img.shields.io/github/last-commit/TIGER-AI-Lab/RewardHarness) |
 
 ## Vision Evals
 
