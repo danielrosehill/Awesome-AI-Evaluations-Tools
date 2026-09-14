@@ -59,6 +59,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 
 | Project | Description | Stars | Updated |
 |---|---|---|---|
+| [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) | Public model and agent measurement with signed evidence cards, public roots, and an offline verifier. Measurement, not certification. | ![](https://img.shields.io/github/stars/CSOAI-ORG/councilof-ai?style=social) | ![](https://img.shields.io/github/last-commit/CSOAI-ORG/councilof-ai) |
 | [DeepEval](https://github.com/confident-ai/deepeval) | The LLM evaluation framework. | ![](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) | ![](https://img.shields.io/github/last-commit/confident-ai/deepeval) |
 | [Phoenix](https://github.com/Arize-ai/phoenix) | AI observability and evaluation platform from Arize. | ![](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social) | ![](https://img.shields.io/github/last-commit/Arize-ai/phoenix) |
 | [Opik](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor LLM apps, RAG systems, and agentic workflows with tracing and dashboards. | ![](https://img.shields.io/github/stars/comet-ml/opik?style=social) | ![](https://img.shields.io/github/last-commit/comet-ml/opik) |
