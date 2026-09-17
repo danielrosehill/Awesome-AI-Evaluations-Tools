@@ -177,6 +177,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [OmniSafeBench-MM](https://github.com/jiaxiaojunQAQ/OmniSafeBench-MM) | Safety benchmark for multimodal large language models. | ![](https://img.shields.io/github/stars/jiaxiaojunQAQ/OmniSafeBench-MM?style=social) | ![](https://img.shields.io/github/last-commit/jiaxiaojunQAQ/OmniSafeBench-MM) |
 | [MMT-Bench](https://github.com/OpenGVLab/MMT-Bench) | Comprehensive multimodal benchmark for evaluating LMMs across massive multitask AGI scenarios. | ![](https://img.shields.io/github/stars/OpenGVLab/MMT-Bench?style=social) | ![](https://img.shields.io/github/last-commit/OpenGVLab/MMT-Bench) |
 | [MME-Emotion](https://github.com/FunAudioLLM/MME-Emotion) | Multimodal emotion understanding evaluation benchmark. | ![](https://img.shields.io/github/stars/FunAudioLLM/MME-Emotion?style=social) | ![](https://img.shields.io/github/last-commit/FunAudioLLM/MME-Emotion) |
+| [PaperEdits Agentic Video Benchmark](https://paperedits.com/benchmarking/gemini-agentic-video-understanding-benchmark) | Matched Gemini 3.7 Flash evaluation of agentic versus static video inspection for editing tasks. | — | — |
 
 ## Vision Evals
 
