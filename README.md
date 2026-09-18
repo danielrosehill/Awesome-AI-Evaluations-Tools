@@ -146,6 +146,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [ResearchHarness](https://github.com/black-yt/ResearchHarness) | Lightweight harness for tool-using LLM agents with fair benchmark evaluation and personal assistant workflows. | ![](https://img.shields.io/github/stars/black-yt/ResearchHarness?style=social) | ![](https://img.shields.io/github/last-commit/black-yt/ResearchHarness) |
 | [iris-eval mcp-server](https://github.com/iris-eval/mcp-server) | Agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets. | ![](https://img.shields.io/github/stars/iris-eval/mcp-server?style=social) | ![](https://img.shields.io/github/last-commit/iris-eval/mcp-server) |
 | [AIOpsLab](https://github.com/microsoft/AIOpsLab) | Microsoft holistic framework for designing, developing, and evaluating autonomous AIOps agents. | ![](https://img.shields.io/github/stars/microsoft/AIOpsLab?style=social) | ![](https://img.shields.io/github/last-commit/microsoft/AIOpsLab) |
+| [Evalgate](https://github.com/AgentPostmortem/Evalgate) | Prompt and agent regression CI: the build fails when your prompt gets dumber. | ![](https://img.shields.io/github/stars/AgentPostmortem/Evalgate?style=social) | ![](https://img.shields.io/github/last-commit/AgentPostmortem/Evalgate) |
 
 ## Browser & Web Agent Evals
 
