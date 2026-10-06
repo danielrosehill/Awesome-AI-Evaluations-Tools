@@ -163,6 +163,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | Project | Description | Stars | Updated |
 |---|---|---|---|
 | [SWE-bench](https://github.com/SWE-bench/SWE-bench) | Benchmark for evaluating LLMs on real-world GitHub issue resolution. | ![](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=social) | ![](https://img.shields.io/github/last-commit/SWE-bench/SWE-bench) |
+| [RepoTrials](https://github.com/PozziTiv4ik/Repo-Trials) | Local-first CLI that mines Git history into private coding-agent tasks, validates BASE/RED/GOLD transitions, compares repeated trials, and exports Harbor evaluations. | ![](https://img.shields.io/github/stars/PozziTiv4ik/Repo-Trials?style=social) | ![](https://img.shields.io/github/last-commit/PozziTiv4ik/Repo-Trials) |
 
 ## Multimodal Evals
 
