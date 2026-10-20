@@ -109,6 +109,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [OmniEvalKit](https://github.com/OpenBMB/OmniEvalKit) | Modular toolbox for evaluating LLMs and their omni-extensions across modalities, languages, and tasks. | ![](https://img.shields.io/github/stars/OpenBMB/OmniEvalKit?style=social) | ![](https://img.shields.io/github/last-commit/OpenBMB/OmniEvalKit) |
 | [promptfoo](https://github.com/promptfoo/promptfoo) | CLI and library for testing, evaluating, and red-teaming LLM apps — test-driven prompt engineering. | ![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) | ![](https://img.shields.io/github/last-commit/promptfoo/promptfoo) |
 | [FastChat](https://github.com/lm-sys/FastChat) | Platform for training, serving, and evaluating LLMs — home of Chatbot Arena and MT-Bench. | ![](https://img.shields.io/github/stars/lm-sys/FastChat?style=social) | ![](https://img.shields.io/github/last-commit/lm-sys/FastChat) |
+| [Scorio](https://github.com/mohsenhariri/scorio) | Statistical evaluation of repeated LLM outcomes with Bayes@N posterior estimates, uncertainty, and weighted rubrics. | ![](https://img.shields.io/github/stars/mohsenhariri/scorio?style=social) | ![](https://img.shields.io/github/last-commit/mohsenhariri/scorio) |
 
 ## Benchmarks
 
