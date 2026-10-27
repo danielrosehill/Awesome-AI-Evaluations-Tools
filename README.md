@@ -146,7 +146,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [ResearchHarness](https://github.com/black-yt/ResearchHarness) | Lightweight harness for tool-using LLM agents with fair benchmark evaluation and personal assistant workflows. | ![](https://img.shields.io/github/stars/black-yt/ResearchHarness?style=social) | ![](https://img.shields.io/github/last-commit/black-yt/ResearchHarness) |
 | [iris-eval mcp-server](https://github.com/iris-eval/mcp-server) | Agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets. | ![](https://img.shields.io/github/stars/iris-eval/mcp-server?style=social) | ![](https://img.shields.io/github/last-commit/iris-eval/mcp-server) |
 | [AIOpsLab](https://github.com/microsoft/AIOpsLab) | Microsoft holistic framework for designing, developing, and evaluating autonomous AIOps agents. | ![](https://img.shields.io/github/stars/microsoft/AIOpsLab?style=social) | ![](https://img.shields.io/github/last-commit/microsoft/AIOpsLab) |
-- [LevelBench-100](https://github.com/levelcfo/levelbench-100) - Multi-system agentic accounting benchmark evaluating CLI and browser tool-use across 100 workflows and 10 full-company closes ([Report & Leaderboard](https://levelcfo.com/ai-benchmark/)).
+- [LevelBench-100](https://github.com/levelcfo/levelbench-100) - Multi-system agentic accounting benchmark evaluating CLI and browser tool-use across 100 workflows and 10 full-company closes ([Report & Leaderboard](https://levelcfo.com/benchmarks/agentic-accounting/)).
 
 ## Browser & Web Agent Evals
 
