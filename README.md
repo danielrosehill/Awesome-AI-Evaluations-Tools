@@ -2,6 +2,8 @@
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools)
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 A list of **open source tools, frameworks, and benchmarks for evaluating AI systems** — LLMs, RAG pipelines, agents, multimodal models, and AI applications.
 
 ## Scope
