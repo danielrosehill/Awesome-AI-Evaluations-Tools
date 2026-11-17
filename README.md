@@ -130,6 +130,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 | [article-extraction-benchmark](https://github.com/scrapinghub/article-extraction-benchmark) | Benchmark for article extraction libraries from Scrapinghub. | ![](https://img.shields.io/github/stars/scrapinghub/article-extraction-benchmark?style=social) | ![](https://img.shields.io/github/last-commit/scrapinghub/article-extraction-benchmark) |
 | [GameWorld](https://github.com/gameworld-project/gameworld) | Game-based benchmark environment for evaluating AI agents. | ![](https://img.shields.io/github/stars/gameworld-project/gameworld?style=social) | ![](https://img.shields.io/github/last-commit/gameworld-project/gameworld) |
 | [BIG-bench](https://github.com/google/BIG-bench) | Beyond the Imitation Game collaborative benchmark — 200+ tasks probing LLM capability and limitations. | ![](https://img.shields.io/github/stars/google/BIG-bench?style=social) | ![](https://img.shields.io/github/last-commit/google/BIG-bench) |
+| [LLM Reliability Benchmark 2026](https://github.com/litmiq/llm-reliability-benchmark) | CC BY 4.0 dataset: 12 open models on 40 deterministic tests (prompt injection, structured output, instruction following, refusal calibration, grounded answers), measured 12 November 2026. | ![](https://img.shields.io/github/stars/litmiq/llm-reliability-benchmark?style=social) | ![](https://img.shields.io/github/last-commit/litmiq/llm-reliability-benchmark) |
 
 ## Agentic & Tool Use Evals
 
