@@ -116,6 +116,7 @@ A flat CSV of every entry below — with categorization, stars, last-commit date
 
 | Project | Description | Stars | Updated |
 |---|---|---|---|
+| [FailBench](https://github.com/Qin-Z-x/llm-failbench) | Deterministic, judge-free failure probes across 10 LLM failure classes; mechanical scoring, offline mock demo, CI regression gate. | ![](https://img.shields.io/github/stars/Qin-Z-x/llm-failbench?style=social) | ![](https://img.shields.io/github/last-commit/Qin-Z-x/llm-failbench) |
 | [Bloom](https://github.com/safety-research/bloom) | Evaluate any behavior immediately. | ![](https://img.shields.io/github/stars/safety-research/bloom?style=social) | ![](https://img.shields.io/github/last-commit/safety-research/bloom) |
 | [Dangerous Capability Evaluations](https://github.com/google-deepmind/dangerous-capability-evaluations) | Google DeepMind's evaluation suite for dangerous model capabilities. | ![](https://img.shields.io/github/stars/google-deepmind/dangerous-capability-evaluations?style=social) | ![](https://img.shields.io/github/last-commit/google-deepmind/dangerous-capability-evaluations) |
 | [RewardBench](https://github.com/allenai/reward-bench) | The first evaluation tool for reward models. | ![](https://img.shields.io/github/stars/allenai/reward-bench?style=social) | ![](https://img.shields.io/github/last-commit/allenai/reward-bench) |
